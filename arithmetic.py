@@ -1,15 +1,17 @@
 def add(num1, num2):
-    """adds num1 and num2 to return the resulting sum"""
+    """adds num1 and num2, returning the resulting sum"""
     added_num = num1 + num2
     return added_num
 
 def subtract(num1, num2):
-    """subtracts num2 from num1 returning the result"""
+    """subtracts num2 from num1, returning the result"""
     subtracted_num = num1 - num2
     return subtracted_num
 
 def multiply(num1, num2):
-    pass
+    """multiplies num1 and num2, returning the result"""
+    multiplied_num = num1 * num2
+    return multiplied_num
 
 def divide(num1, num2):
     pass
