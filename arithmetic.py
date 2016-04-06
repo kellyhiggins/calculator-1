@@ -12,7 +12,7 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     """divides num2 from num1, returning the result"""
-    return num1 / num2
+    return float(num1) / num2
 
 def square(num1):
     """multiplies num1 by itself, returning the result"""
@@ -29,4 +29,3 @@ def power(num1, num2):
 def mod(num1, num2):
     """divides num2 from num1, returning the remainder of the division"""
     return num1 % num2
-
