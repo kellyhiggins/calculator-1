@@ -15,7 +15,8 @@ def divide(num1, num2):
     return num1 / num2
 
 def square(num1):
-    pass
+    """multiplies num1 by itself, returning the result"""
+    return num1 * num1
 
 def cube(num1):
     pass
