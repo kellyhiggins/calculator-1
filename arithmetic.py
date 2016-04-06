@@ -19,7 +19,8 @@ def square(num1):
     return num1 * num1
 
 def cube(num1):
-    pass
+    """takes num1 and multiplies it by itself three times"""
+    return num1 ** 3
 
 def power(num1, num2):
     pass
